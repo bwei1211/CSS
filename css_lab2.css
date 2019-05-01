@@ -31,15 +31,15 @@
     border: 10px solid skyblue;  
     font-size:15px;  
   }
-  
-  thead{ 
-    background-color:wheat;  
-  }
-  
+
   table, img {
     /*float:right;*/ 
     height:auto; 
     weight:auto; 
+  }
+  
+  thead{ 
+    background-color:wheat;  
   }
   
   a:link, a:visited { 
@@ -56,8 +56,8 @@
   } 
 
   .pic{
-    height: 100px; 
-    width: 300px; 
+    height: 200px; 
+    width: 400px; 
   }
   @media only screen and (min-width:768px){
     body{
